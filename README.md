@@ -18,9 +18,13 @@ A collection built using https://developer.mozilla.org/en-US/docs/Web/API/Keyboa
 
 
 
-# Todo:
-[] Add tests
-[] Add events' names (input, keydown, ...)
-[] Add Mouse Events
-[] Split builds
-[] CI
+#### Todo:
+[ ] Add tests
+
+[ ] Add events' names (input, keydown, ...)
+
+[ ] Add Mouse Events
+
+[ ] Split builds
+
+[ ] CI
